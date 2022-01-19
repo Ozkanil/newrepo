@@ -7,5 +7,6 @@ public class Main {
         System.out.println("New comment");
 
         String c= "hello";
+        String c= "hello";
     }
 }
