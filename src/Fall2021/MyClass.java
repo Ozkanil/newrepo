@@ -5,6 +5,8 @@ public class MyClass {
 
         System.out.println("new classsssss");
         
-        Dont do it again
+        int a=55;
+        int b=25;
+        int s= 65;
     }
 }
