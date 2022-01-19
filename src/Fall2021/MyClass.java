@@ -6,7 +6,7 @@ public class MyClass {
         System.out.println("new classsssss");
         
         int a=55;
-        String p= "Hellooo";
+        String p= "Hello";
         int s= 65;
     }
 }
