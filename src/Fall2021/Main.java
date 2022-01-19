@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("New comment");
 
-        int a= 2;
+        String c= "hello";
     }
 }
