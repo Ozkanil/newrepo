@@ -8,5 +8,6 @@ public class MyClass {
         int a=55;
         String p= "Hello";
         int s= 65;
+        int s= 65;
     }
 }
