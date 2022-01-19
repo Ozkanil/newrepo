@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("New comment");
 
-        String c= "hello";
+        String c= "hello world";
+        String c1= "hello world";
+        String c2= "hello world";
     }
 }
